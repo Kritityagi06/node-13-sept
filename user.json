@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Ravid",
+        "last_name": "Hadley",
+        "email": "rhadley0@wordpress.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Nanni",
+        "last_name": "Maslin",
+        "email": "nmaslin1@arizona.edu",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Elmer",
+        "last_name": "Crossingham",
+        "email": "ecrossingham2@archive.org",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Rorie",
+        "last_name": "Gerbi",
+        "email": "rgerbi3@census.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Andros",
+        "last_name": "Whelan",
+        "email": "awhelan4@addtoany.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Bunnie",
+        "last_name": "Jayes",
+        "email": "bjayes5@photobucket.com",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Nannie",
+        "last_name": "Fere",
+        "email": "nfere6@redcross.org",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Vania",
+        "last_name": "Rengger",
+        "email": "vrengger7@ucoz.ru",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Sheffield",
+        "last_name": "Crab",
+        "email": "scrab8@sbwire.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Cymbre",
+        "last_name": "Dodsworth",
+        "email": "cdodsworth9@illinois.edu",
+        "gender": "Female"
+    }
+]
